@@ -4,7 +4,7 @@
 
 Bạn có thể tải toàn bộ source code bằng lệnh sau trong terminal hoặc Git Bash:
 ```bash
-git clone https://github.com/tynnp/CP-Practice.git
+git clone https://github.com/tynnpdhsp/cp-practice.git
 ```
 
 > ⚠️ Do đang trong quá trình xây dựng lại kho lưu trữ, một số bài sẽ có thể không tìm thấy trên kho này.
