@@ -1,8 +1,8 @@
 import requests
 import os 
 
-OWNER = 'tynnp' 
-REPO = 'CP-Practice'
+OWNER = 'tynnpdhsp'
+REPO = 'cp-practice'
 TOKEN = os.getenv('UPDATE_PRACTICE')  
  
 def get_file_count():
@@ -14,6 +14,9 @@ def get_file_count():
 
     response = requests.get(url, headers=headers)
     data = response.json()
+
+    if 'tree' not in data:
+        raise SystemExit(f'GitHub API error {response.status_code}: {data}')
 
     file_count = sum(1 for item in data['tree'] if item['type'] == 'blob')
     return file_count
