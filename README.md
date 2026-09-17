@@ -1,4 +1,4 @@
-# 📂 CP-Practice Repository — Nguyễn Ngọc Phú Tỷ (tynnp)
+# 📂 CP-Practice — Nguyễn Ngọc Phú Tỷ (tynnp)
 <img align="right" src=".other/images/cat.gif" alt="coding gif" width="160"/>
 Đây là kho lưu trữ các bài giải lập trình thi đấu của mình trong suốt thời gian mình học tập trên nhiều nền tảng chấm bài khác nhau. Nếu bạn thấy repository này hữu ích, hãy nhấn nút Star ⭐ ở góc phải phía trên để ủng hộ mình nhé. <br/><br/>
 
