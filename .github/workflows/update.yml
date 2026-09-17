@@ -25,7 +25,7 @@ jobs:
 
       - name: Run update script
         env:
-          UPDATE_PRACTICE: ${{ secrets.UPDATE_PRACTICE }}
+          UPDATE_PRACTICE: ${{ secrets.GITHUB_TOKEN }}
         run: python .other/update_readme.py
 
       - name: Commit and push changes
@@ -36,4 +36,4 @@ jobs:
           git commit -m '[BOT] Cập nhật số lượng bài giải!'
           git push
         env:
-          UPDATE_PRACTICE: ${{ secrets.UPDATE_PRACTICE }}
+          UPDATE_PRACTICE: ${{ secrets.GITHUB_TOKEN }}
