@@ -11,7 +11,7 @@ git clone https://github.com/tynnpdhsp/cp-practice.git
 
 ## 📑 Thông tin liên quan
 - Ngày khởi tạo: 01/02/2024.
-- Số lượng file bài giải hiện tại: 2238.
+- Số lượng file bài giải hiện tại: 2239.
 - Ngôn ngữ lập trình sử dụng chính: C/C++, Python, Java.
 - Phần mềm sử dụng chính: Visual Studio Code.
 
