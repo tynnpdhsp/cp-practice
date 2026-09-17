@@ -1,3 +1,6 @@
+// Author: Nguyễn Ngọc Phú Tỷ (tynnp)
+// GitHub: https://github.com/tynnpdhsp/cp-practice
+
 #include <iostream>
 #include <fstream>
 using namespace std;

@@ -1,3 +1,6 @@
+// Author: Nguyễn Ngọc Phú Tỷ (tynnp)
+// GitHub: https://github.com/tynnpdhsp/cp-practice
+
 //1. Xem công thức hướng dẫn và bài này có chia dư.
 #include <iostream>
 using namespace std;

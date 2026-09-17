@@ -1,3 +1,6 @@
+# Author: Nguyễn Ngọc Phú Tỷ (tynnp)
+# GitHub: https://github.com/tynnpdhsp/cp-practice
+
 a = [int(x) for x in input().split()]
 
 if len(a) == 1:

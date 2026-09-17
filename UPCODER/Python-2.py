@@ -1,3 +1,6 @@
+# Author: Nguyễn Ngọc Phú Tỷ (tynnp)
+# GitHub: https://github.com/tynnpdhsp/cp-practice
+
 def pow(n, x):
     res = 1
     for i in range(x):

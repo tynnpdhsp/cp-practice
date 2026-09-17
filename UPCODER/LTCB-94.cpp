@@ -1,3 +1,6 @@
+// Author: Nguyễn Ngọc Phú Tỷ (tynnp)
+// GitHub: https://github.com/tynnpdhsp/cp-practice
+
 //mỗi số xuất ra cách nhau 1 khoảng trắng
 #include <bits/stdc++.h>
 using namespace std;

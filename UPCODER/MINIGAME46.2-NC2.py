@@ -1,3 +1,6 @@
+# Author: Nguyễn Ngọc Phú Tỷ (tynnp)
+# GitHub: https://github.com/tynnpdhsp/cp-practice
+
 def check(S):
     while len(S) > 0:
         if S.endswith("dream"):

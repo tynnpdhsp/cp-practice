@@ -1,3 +1,6 @@
+# Author: Nguyễn Ngọc Phú Tỷ (tynnp)
+# GitHub: https://github.com/tynnpdhsp/cp-practice
+
 def calc(a, b, d1, d2, d3, x):
     if x <= a:
         return x * d1

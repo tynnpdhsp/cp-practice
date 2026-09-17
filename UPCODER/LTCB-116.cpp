@@ -1,3 +1,6 @@
+// Author: Nguyễn Ngọc Phú Tỷ (tynnp)
+// GitHub: https://github.com/tynnpdhsp/cp-practice
+
 // 	1. Nhập vào n 
 // 	2.  nếu n không hợp lệ thì cứ xuất ra -1
 

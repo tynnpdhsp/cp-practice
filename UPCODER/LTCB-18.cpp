@@ -1,3 +1,6 @@
+// Author: Nguyễn Ngọc Phú Tỷ (tynnp)
+// GitHub: https://github.com/tynnpdhsp/cp-practice
+
 //1. Nhập x là số thực, n là số nguyên dương.
 #include <bits/stdc++.h>
 using namespace std;

@@ -1,3 +1,6 @@
+# Author: Nguyễn Ngọc Phú Tỷ (tynnp)
+# GitHub: https://github.com/tynnpdhsp/cp-practice
+
 def check(soKyDieu):
     chuSo = [int(chu) for chu in str(soKyDieu)]
     chuSoTangDan = sorted(chuSo)

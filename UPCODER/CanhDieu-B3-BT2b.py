@@ -1,3 +1,6 @@
+# Author: Nguyễn Ngọc Phú Tỷ (tynnp)
+# GitHub: https://github.com/tynnpdhsp/cp-practice
+
 sl2020 = 247  
 tdt = 8.6 / 100
 sn = 2026 - 2020

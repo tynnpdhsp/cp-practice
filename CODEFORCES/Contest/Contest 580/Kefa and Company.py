@@ -1,3 +1,6 @@
+# Author: Nguyễn Ngọc Phú Tỷ (tynnp)
+# GitHub: https://github.com/tynnpdhsp/cp-practice
+
 def heSoMax(n, d, banBe):
     banBe.sort(key=lambda x: x[0])
     

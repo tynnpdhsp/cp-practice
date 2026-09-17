@@ -1,3 +1,6 @@
+# Author: Nguyễn Ngọc Phú Tỷ (tynnp)
+# GitHub: https://github.com/tynnpdhsp/cp-practice
+
 a, b = map(int, input().split())
 ans = [[0] * 20 for _ in range(20)]
 

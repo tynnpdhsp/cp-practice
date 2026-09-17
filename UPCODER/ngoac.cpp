@@ -1,3 +1,6 @@
+// Author: Nguyễn Ngọc Phú Tỷ (tynnp)
+// GitHub: https://github.com/tynnpdhsp/cp-practice
+
 // 1. Sử dụng con trỏ file
 #include <bits/stdc++.h>
 using namespace std;

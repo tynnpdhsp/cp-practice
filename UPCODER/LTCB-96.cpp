@@ -1,3 +1,6 @@
+// Author: Nguyễn Ngọc Phú Tỷ (tynnp)
+// GitHub: https://github.com/tynnpdhsp/cp-practice
+
 //x nhập vào là số thực và kết quả làm tròn đến chữ số thập phân thứ 2
 #include <bits/stdc++.h>
 using namespace std;
