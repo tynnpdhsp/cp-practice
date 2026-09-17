@@ -24,15 +24,16 @@ def get_file_count():
 def update_readme(file_count):
     readme_path = 'README.md'
 
-    with open(readme_path, 'r') as file:
+    with open(readme_path, 'r', newline='') as file:
         content = file.readlines()
 
     for i, line in enumerate(content):
         if line.startswith('- Số lượng file bài giải hiện tại: '):
-            content[i] = f'- Số lượng file bài giải hiện tại: {file_count}.\n'
+            eol = '\r\n' if line.endswith('\r\n') else '\n'
+            content[i] = f'- Số lượng file bài giải hiện tại: {file_count}.{eol}'
             break
 
-    with open(readme_path, 'w') as file:
+    with open(readme_path, 'w', newline='') as file:
         file.writelines(content)
 
     print(f'Updated README.md with file count: {file_count}')
